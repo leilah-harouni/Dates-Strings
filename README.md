@@ -1,2 +1,2 @@
 # Dates-Strings
-A tutorial for working with dates and strings in R
+This is a simple tutorial for working with dates and strings in R. This script includes some exercises working with tweets.
